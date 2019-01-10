@@ -1,0 +1,729 @@
+**************************************
+ACS_09_5YR_S0102.zip
+['ACS_09_5YR_S0102_with_ann.csv', 'ACS_09_5YR_S0102_metadata.csv', 'ACS_09_5YR_S0102.txt', 'aff_download_readme_ann.txt']
+**************************************
+###ACS_09_5YR_S0102_with_ann.csv###
+        GEO.id GEO.id2 GEO.display-label                      HC01_EST_VC01
+0           Id     Id2         Geography  Total; Estimate; Total population
+1  0400000US01      01           Alabama                            4633360
+2  0400000US02      02            Alaska                             683142
+---------------------------------
+###ACS_09_5YR_S0102_metadata.csv###
+              GEO.id                                 Id
+0            GEO.id2                                Id2
+1  GEO.display-label                          Geography
+2      HC01_EST_VC01  Total; Estimate; Total population
+---------------------------------
+###ACS_09_5YR_S0102.txt###
+b'S0102'
+b'Population 60 Years and Over in the United States'
+b''
+b'NOTE. Although the American Community Survey (ACS) produces'
+b'population, demographic and housing unit estimates, it is the'
+
+---------------------------------
+###aff_download_readme_ann.txt###
+
+---------------------------------
+**************************************
+ACS_10_5YR_S0102.zip
+['ACS_10_5YR_S0102_with_ann.csv', 'ACS_10_5YR_S0102_metadata.csv', 'ACS_10_5YR_S0102.txt', 'aff_download_readme_ann.txt']
+**************************************
+###ACS_10_5YR_S0102_with_ann.csv###
+        GEO.id GEO.id2 GEO.display-label                      HC01_EST_VC01
+0           Id     Id2         Geography  Total; Estimate; Total population
+1  0400000US01      01           Alabama                            4712651
+2  0400000US02      02            Alaska                             691189
+---------------------------------
+###ACS_10_5YR_S0102_metadata.csv###
+              GEO.id                                 Id
+0            GEO.id2                                Id2
+1  GEO.display-label                          Geography
+2      HC01_EST_VC01  Total; Estimate; Total population
+---------------------------------
+###ACS_10_5YR_S0102.txt###
+b'S0102'
+b'POPULATION 60 YEARS AND OVER IN THE UNITED STATES'
+b''
+b'Although the American Community Survey (ACS) produces population, demographic and housing unit estimates, for 2010, the 2010 Census provides the official counts of the population and housing units for the nation, states, counties, cities and towns. For 2006 to 2009, the Population Estimates Program provides intercensal estimates of the population for the nation, states, and counties.'
+b''
+
+---------------------------------
+###aff_download_readme_ann.txt###
+
+---------------------------------
+**************************************
+ACS_11_5YR_S0102.zip
+['ACS_11_5YR_S0102_with_ann.csv', 'ACS_11_5YR_S0102_metadata.csv', 'ACS_11_5YR_S0102.txt', 'aff_download_readme_ann.txt']
+**************************************
+###ACS_11_5YR_S0102_with_ann.csv###
+        GEO.id GEO.id2 GEO.display-label                      HC01_EST_VC01
+0           Id     Id2         Geography  Total; Estimate; Total population
+1  0400000US01      01           Alabama                            4747424
+2  0400000US02      02            Alaska                             700703
+---------------------------------
+###ACS_11_5YR_S0102_metadata.csv###
+              GEO.id                                 Id
+0            GEO.id2                                Id2
+1  GEO.display-label                          Geography
+2      HC01_EST_VC01  Total; Estimate; Total population
+---------------------------------
+###ACS_11_5YR_S0102.txt###
+b'S0102'
+b'POPULATION 60 YEARS AND OVER IN THE UNITED STATES'
+b''
+b"Although the American Community Survey (ACS) produces population, demographic and housing unit estimates, it is the Census Bureau's Population Estimates Program that produces and disseminates the official estimates of the population for the nation, states, counties, cities and towns and estimates of housing units for states and counties."
+b''
+
+---------------------------------
+###aff_download_readme_ann.txt###
+
+---------------------------------
+**************************************
+ACS_12_5YR_S0102.zip
+['ACS_12_5YR_S0102_with_ann.csv', 'ACS_12_5YR_S0102_metadata.csv', 'ACS_12_5YR_S0102.txt', 'aff_download_readme_ann.txt']
+**************************************
+###ACS_12_5YR_S0102_with_ann.csv###
+        GEO.id GEO.id2 GEO.display-label                      HC01_EST_VC01
+0           Id     Id2         Geography  Total; Estimate; Total population
+1  0400000US01      01           Alabama                            4777326
+2  0400000US02      02            Alaska                             711139
+---------------------------------
+###ACS_12_5YR_S0102_metadata.csv###
+              GEO.id                                 Id
+0            GEO.id2                                Id2
+1  GEO.display-label                          Geography
+2      HC01_EST_VC01  Total; Estimate; Total population
+---------------------------------
+###ACS_12_5YR_S0102.txt###
+b'S0102'
+b'POPULATION 60 YEARS AND OVER IN THE UNITED STATES'
+b''
+b"Although the American Community Survey (ACS) produces population, demographic and housing unit estimates, it is the Census Bureau's Population Estimates Program that produces and disseminates the official estimates of the population for the nation, states, counties, cities and towns and estimates of housing units for states and counties."
+b''
+
+---------------------------------
+###aff_download_readme_ann.txt###
+
+---------------------------------
+**************************************
+ACS_13_5YR_S0102.zip
+['ACS_13_5YR_S0102_with_ann.csv', 'ACS_13_5YR_S0102_metadata.csv', 'ACS_13_5YR_S0102.txt', 'aff_download_readme_ann.txt']
+**************************************
+###ACS_13_5YR_S0102_with_ann.csv###
+        GEO.id GEO.id2 GEO.display-label                      HC01_EST_VC01
+0           Id     Id2         Geography  Total; Estimate; Total population
+1  0400000US01      01           Alabama                            4799277
+2  0400000US02      02            Alaska                             720316
+---------------------------------
+###ACS_13_5YR_S0102_metadata.csv###
+              GEO.id                                 Id
+0            GEO.id2                                Id2
+1  GEO.display-label                          Geography
+2      HC01_EST_VC01  Total; Estimate; Total population
+---------------------------------
+###ACS_13_5YR_S0102.txt###
+b'S0102'
+b'POPULATION 60 YEARS AND OVER IN THE UNITED STATES'
+b''
+b"Although the American Community Survey (ACS) produces population, demographic and housing unit estimates, it is the Census Bureau's Population Estimates Program that produces and disseminates the official estimates of the population for the nation, states, counties, cities and towns and estimates of housing units for states and counties."
+b''
+
+---------------------------------
+###aff_download_readme_ann.txt###
+
+---------------------------------
+**************************************
+ACS_14_5YR_S0102.zip
+['ACS_14_5YR_S0102_with_ann.csv', 'ACS_14_5YR_S0102_metadata.csv', 'ACS_14_5YR_S0102.txt', 'aff_download_readme_ann.txt']
+**************************************
+###ACS_14_5YR_S0102_with_ann.csv###
+        GEO.id GEO.id2 GEO.display-label                      HC01_EST_VC01
+0           Id     Id2         Geography  Total; Estimate; Total population
+1  0400000US01      01           Alabama                            4817678
+2  0400000US02      02            Alaska                             728300
+---------------------------------
+###ACS_14_5YR_S0102_metadata.csv###
+              GEO.id                                 Id
+0            GEO.id2                                Id2
+1  GEO.display-label                          Geography
+2      HC01_EST_VC01  Total; Estimate; Total population
+---------------------------------
+###ACS_14_5YR_S0102.txt###
+b'S0102'
+b'POPULATION 60 YEARS AND OVER IN THE UNITED STATES'
+b''
+b"Although the American Community Survey (ACS) produces population, demographic and housing unit estimates, it is the Census Bureau's Population Estimates Program that produces and disseminates the official estimates of the population for the nation, states, counties, cities and towns and estimates of housing units for states and counties."
+b''
+
+---------------------------------
+###aff_download_readme_ann.txt###
+
+---------------------------------
+**************************************
+ACS_15_5YR_S0102.zip
+['ACS_15_5YR_S0102_with_ann.csv', 'ACS_15_5YR_S0102_metadata.csv', 'ACS_15_5YR_S0102.txt', 'aff_download_readme_ann.txt']
+**************************************
+###ACS_15_5YR_S0102_with_ann.csv###
+        GEO.id GEO.id2 GEO.display-label                      HC01_EST_VC01
+0           Id     Id2         Geography  Total; Estimate; Total population
+1  0400000US01      01           Alabama                            4830620
+2  0400000US02      02            Alaska                             733375
+---------------------------------
+###ACS_15_5YR_S0102_metadata.csv###
+              GEO.id                                 Id
+0            GEO.id2                                Id2
+1  GEO.display-label                          Geography
+2      HC01_EST_VC01  Total; Estimate; Total population
+---------------------------------
+###ACS_15_5YR_S0102.txt###
+b'S0102'
+b'POPULATION 60 YEARS AND OVER IN THE UNITED STATES'
+b''
+b'Tell us what you think. Provide feedback to help make American Community Survey data more useful for you.'
+b"Although the American Community Survey (ACS) produces population, demographic and housing unit estimates, it is the Census Bureau's Population Estimates Program that produces and disseminates the official estimates of the population for the nation, states, counties, cities and towns and estimates of housing units for states and counties."
+
+---------------------------------
+###aff_download_readme_ann.txt###
+
+---------------------------------
+**************************************
+ACS_16_5YR_S0102.zip
+['ACS_16_5YR_S0102_with_ann.csv', 'ACS_16_5YR_S0102_metadata.csv', 'ACS_16_5YR_S0102.txt', 'aff_download_readme_ann.txt']
+**************************************
+###ACS_16_5YR_S0102_with_ann.csv###
+        GEO.id GEO.id2 GEO.display-label                      HC01_EST_VC01
+0           Id     Id2         Geography  Total; Estimate; Total population
+1  0400000US01      01           Alabama                            4841164
+2  0400000US02      02            Alaska                             736855
+---------------------------------
+###ACS_16_5YR_S0102_metadata.csv###
+              GEO.id                                 Id
+0            GEO.id2                                Id2
+1  GEO.display-label                          Geography
+2      HC01_EST_VC01  Total; Estimate; Total population
+---------------------------------
+###ACS_16_5YR_S0102.txt###
+b'S0102'
+b'POPULATION 60 YEARS AND OVER IN THE UNITED STATES'
+b''
+b'Tell us what you think. Provide feedback to help make American Community Survey data more useful for you.'
+b"Although the American Community Survey (ACS) produces population, demographic and housing unit estimates, it is the Census Bureau's Population Estimates Program that produces and disseminates the official estimates of the population for the nation, states, counties, cities and towns and estimates of housing units for states and counties."
+
+---------------------------------
+###aff_download_readme_ann.txt###
+
+---------------------------------
+**************************************
+ACS_17_5YR_S0102.zip
+['ACS_17_5YR_S0102_with_ann.csv', 'ACS_17_5YR_S0102_metadata.csv', 'ACS_17_5YR_S0102.txt', 'aff_download_readme_ann.txt']
+**************************************
+###ACS_17_5YR_S0102_with_ann.csv###
+        GEO.id GEO.id2 GEO.display-label                      HC01_EST_VC01
+0           Id     Id2         Geography  Total; Estimate; Total population
+1  0400000US01      01           Alabama                            4850771
+2  0400000US02      02            Alaska                             738565
+---------------------------------
+###ACS_17_5YR_S0102_metadata.csv###
+              GEO.id                                 Id
+0            GEO.id2                                Id2
+1  GEO.display-label                          Geography
+2      HC01_EST_VC01  Total; Estimate; Total population
+---------------------------------
+###ACS_17_5YR_S0102.txt###
+b'S0102'
+b'POPULATION 60 YEARS AND OVER IN THE UNITED STATES'
+b''
+b"Although the American Community Survey (ACS) produces population, demographic and housing unit estimates, it is the Census Bureau's Population Estimates Program that produces and disseminates the official estimates of the population for the nation, states, counties, cities, and towns and estimates of housing units for states and counties."
+b''
+
+---------------------------------
+###aff_download_readme_ann.txt###
+
+---------------------------------
+**************************************
+AHS 2017 National PUF v1.1 CSV.zip
+['household.csv', 'person.csv', 'project.csv']
+**************************************
+###household.csv###
+      CONTROL  TOTROOMS TOTHCAMT  PERPOVLVL
+0  '11000001'         8     '14'        501
+1  '11000002'         7     '15'        501
+2  '11000005'         8     '12'        501
+---------------------------------
+###person.csv###
+      CONTROL JAGE JCITSHP JENROLL
+0  '11000001'  '0'     '0'     '0'
+1  '11000001'  '0'     '0'     '0'
+2  '11000001'  '0'     '0'     '0'
+---------------------------------
+###project.csv###
+      CONTROL JJOBCOMP JJOBCOMPYR JJOBCOST
+0  '11000001'      '0'        '0'      '0'
+1  '11000002'      '0'        '0'      '0'
+2  '11000002'      '0'        '0'      '0'
+---------------------------------
+**************************************
+ASE_2014_00CSA01.zip
+['ASE_2014_00CSA01_with_ann.csv', 'ASE_2014_00CSA01_metadata.csv', 'ASE_2014_00CSA01.txt', 'aff_download_readme_ann.txt']
+**************************************
+###ASE_2014_00CSA01_with_ann.csv###
+                       GEO.id GEO.id2     GEO.display-label         NAICS.id
+0  Geographic identifier code     Id2  Geographic area name  2012 NAICS code
+1                 0400000US01      01               Alabama               00
+2                 0400000US01      01               Alabama               00
+---------------------------------
+###ASE_2014_00CSA01_metadata.csv###
+              GEO.id Geographic identifier code
+0            GEO.id2                        Id2
+1  GEO.display-label       Geographic area name
+2           NAICS.id            2012 NAICS code
+---------------------------------
+###ASE_2014_00CSA01.txt###
+b'SE1400CSA01'
+b'Statistics for U.S. Employer Firms by Sector, Gender, Ethnicity, Race, and Veteran Status for the U.S., States, and Top 50 MSAs: 2014'
+b''
+b'Release Date : 09/01/2016'
+b''
+
+---------------------------------
+###aff_download_readme_ann.txt###
+
+---------------------------------
+**************************************
+ASE_2014_00CSA02.zip
+['ASE_2014_00CSA02_with_ann.csv', 'ASE_2014_00CSA02_metadata.csv', 'ASE_2014_00CSA02.txt', 'aff_download_readme_ann.txt']
+**************************************
+###ASE_2014_00CSA02_with_ann.csv###
+                       GEO.id GEO.id2     GEO.display-label         NAICS.id
+0  Geographic identifier code     Id2  Geographic area name  2012 NAICS code
+1                 0400000US01      01               Alabama               00
+2                 0400000US01      01               Alabama               00
+---------------------------------
+###ASE_2014_00CSA02_metadata.csv###
+              GEO.id Geographic identifier code
+0            GEO.id2                        Id2
+1  GEO.display-label       Geographic area name
+2           NAICS.id            2012 NAICS code
+---------------------------------
+###ASE_2014_00CSA02.txt###
+b'SE1400CSA02'
+b'Statistics for U.S. Employer Firms by Sector, Gender, Ethnicity, Race, Veteran Status, and Years in Business for the U.S., States, and Top 50 MSAs: 2014'
+b''
+b'Release Date : 09/01/2016'
+b''
+
+---------------------------------
+###aff_download_readme_ann.txt###
+
+---------------------------------
+**************************************
+ASE_2015_00CSA01.zip
+['ASE_2015_00CSA01_with_ann.csv', 'ASE_2015_00CSA01_metadata.csv', 'ASE_2015_00CSA01.txt', 'aff_download_readme_ann.txt']
+**************************************
+###ASE_2015_00CSA01_with_ann.csv###
+                       GEO.id GEO.id2     GEO.display-label         NAICS.id
+0  Geographic identifier code     Id2  Geographic area name  2012 NAICS code
+1                 0400000US01      01               Alabama               00
+2                 0400000US01      01               Alabama               00
+---------------------------------
+###ASE_2015_00CSA01_metadata.csv###
+              GEO.id Geographic identifier code
+0            GEO.id2                        Id2
+1  GEO.display-label       Geographic area name
+2           NAICS.id            2012 NAICS code
+---------------------------------
+###ASE_2015_00CSA01.txt###
+b'SE1500CSA01'
+b'Statistics for U.S. Employer Firms by Sector, Gender, Ethnicity, Race, and Veteran Status for the U.S., States, and Top 50 MSAs: 2015'
+b''
+b'Release Date : 07/13/2017'
+b''
+
+---------------------------------
+###aff_download_readme_ann.txt###
+
+---------------------------------
+**************************************
+ASE_2015_00CSA02.zip
+['ASE_2015_00CSA02_with_ann.csv', 'ASE_2015_00CSA02_metadata.csv', 'ASE_2015_00CSA02.txt', 'aff_download_readme_ann.txt']
+**************************************
+###ASE_2015_00CSA02_with_ann.csv###
+                       GEO.id GEO.id2     GEO.display-label         NAICS.id
+0  Geographic identifier code     Id2  Geographic area name  2012 NAICS code
+1                 0400000US01      01               Alabama               00
+2                 0400000US01      01               Alabama               00
+---------------------------------
+###ASE_2015_00CSA02_metadata.csv###
+              GEO.id Geographic identifier code
+0            GEO.id2                        Id2
+1  GEO.display-label       Geographic area name
+2           NAICS.id            2012 NAICS code
+---------------------------------
+###ASE_2015_00CSA02.txt###
+b'SE1500CSA02'
+b'Statistics for U.S. Employer Firms by Sector, Gender, Ethnicity, Race, Veteran Status, and Years in Business for the U.S., States, and Top 50 MSAs: 2015'
+b''
+b'Release Date : 07/13/2017'
+b''
+
+---------------------------------
+###aff_download_readme_ann.txt###
+
+---------------------------------
+**************************************
+ASE_2016_00CSA01.zip
+['ASE_2016_00CSA01_with_ann.csv', 'ASE_2016_00CSA01_metadata.csv', 'ASE_2016_00CSA01.txt', 'aff_download_readme_ann.txt']
+**************************************
+###ASE_2016_00CSA01_with_ann.csv###
+                       GEO.id GEO.id2     GEO.display-label         NAICS.id
+0  Geographic identifier code     Id2  Geographic area name  2012 NAICS code
+1                 0400000US01      01               Alabama               00
+2                 0400000US01      01               Alabama               00
+---------------------------------
+###ASE_2016_00CSA01_metadata.csv###
+              GEO.id Geographic identifier code
+0            GEO.id2                        Id2
+1  GEO.display-label       Geographic area name
+2           NAICS.id            2012 NAICS code
+---------------------------------
+###ASE_2016_00CSA01.txt###
+b'SE1600CSA01'
+b'Statistics for U.S. Employer Firms by Sector, Gender, Ethnicity, Race, and Veteran Status for the U.S., States, and Top 50 MSAs: 2016'
+b''
+b'Release Date : 08/10/2018'
+b''
+
+---------------------------------
+###aff_download_readme_ann.txt###
+
+---------------------------------
+**************************************
+ASE_2016_00CSA02 (1).zip
+['ASE_2016_00CSA02_with_ann.csv', 'ASE_2016_00CSA02_metadata.csv', 'ASE_2016_00CSA02.txt', 'aff_download_readme_ann.txt']
+**************************************
+###ASE_2016_00CSA02_with_ann.csv###
+                       GEO.id GEO.id2     GEO.display-label         NAICS.id
+0  Geographic identifier code     Id2  Geographic area name  2012 NAICS code
+1                 0400000US01      01               Alabama               00
+2                 0400000US01      01               Alabama               00
+---------------------------------
+###ASE_2016_00CSA02_metadata.csv###
+              GEO.id Geographic identifier code
+0            GEO.id2                        Id2
+1  GEO.display-label       Geographic area name
+2           NAICS.id            2012 NAICS code
+---------------------------------
+###ASE_2016_00CSA02.txt###
+b'SE1600CSA02'
+b'Statistics for U.S. Employer Firms by Sector, Gender, Ethnicity, Race, Veteran Status, and Years in Business for the U.S., States, and Top 50 MSAs: 2016'
+b''
+b'Release Date : 08/10/2018'
+b''
+
+---------------------------------
+###aff_download_readme_ann.txt###
+
+---------------------------------
+**************************************
+ASE_2016_00CSA02.zip
+['ASE_2016_00CSA02_with_ann.csv', 'ASE_2016_00CSA02_metadata.csv', 'ASE_2016_00CSA02.txt', 'aff_download_readme_ann.txt']
+**************************************
+###ASE_2016_00CSA02_with_ann.csv###
+                       GEO.id GEO.id2     GEO.display-label         NAICS.id
+0  Geographic identifier code     Id2  Geographic area name  2012 NAICS code
+1                 0400000US01      01               Alabama               00
+2                 0400000US01      01               Alabama               00
+---------------------------------
+###ASE_2016_00CSA02_metadata.csv###
+              GEO.id Geographic identifier code
+0            GEO.id2                        Id2
+1  GEO.display-label       Geographic area name
+2           NAICS.id            2012 NAICS code
+---------------------------------
+###ASE_2016_00CSA02.txt###
+b'SE1600CSA02'
+b'Statistics for U.S. Employer Firms by Sector, Gender, Ethnicity, Race, Veteran Status, and Years in Business for the U.S., States, and Top 50 MSAs: 2016'
+b''
+b'Release Date : 08/10/2018'
+b''
+
+---------------------------------
+###aff_download_readme_ann.txt###
+
+---------------------------------
+**************************************
+CIUS2015downloadablefiles.zip
+['CIUS2015datadeclarations_overviews.zip', 'CIUS2015datatables.zip', 'CIUS2015figures.zip.zip', 'CIUS2015topic_resource_additionalreprot_pages.zip']
+**************************************
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+**************************************
+EC1255I3.zip
+['EC1255I3.dat']
+**************************************
+
+---------------------------------
+**************************************
+intrvw17.zip
+['intrvw17/fmli171x.sas7bdat', 'intrvw17/fmli172.sas7bdat', 'intrvw17/fmli173.sas7bdat', 'intrvw17/fmli174.sas7bdat', 'intrvw17/fmli181.sas7bdat', 'intrvw17/itbi171x.sas7bdat', 'intrvw17/itbi172.sas7bdat', 'intrvw17/itbi173.sas7bdat', 'intrvw17/itbi174.sas7bdat', 'intrvw17/itbi181.sas7bdat', 'intrvw17/itii171x.sas7bdat', 'intrvw17/itii172.sas7bdat', 'intrvw17/itii173.sas7bdat', 'intrvw17/itii174.sas7bdat', 'intrvw17/itii181.sas7bdat', 'intrvw17/memi171x.sas7bdat', 'intrvw17/memi172.sas7bdat', 'intrvw17/memi173.sas7bdat', 'intrvw17/memi174.sas7bdat', 'intrvw17/memi181.sas7bdat', 'intrvw17/mtbi171x.sas7bdat', 'intrvw17/mtbi172.sas7bdat', 'intrvw17/mtbi173.sas7bdat', 'intrvw17/mtbi174.sas7bdat', 'intrvw17/mtbi181.sas7bdat', 'intrvw17/ntaxi171x.sas7bdat', 'intrvw17/ntaxi172.sas7bdat', 'intrvw17/ntaxi173.sas7bdat', 'intrvw17/ntaxi174.sas7bdat', 'intrvw17/ntaxi181.sas7bdat', 'para17/fpar1617.sas7bdat', 'para17/mchi1617.sas7bdat', 'expn17/apa17.sas7bdat', 'expn17/apb17.sas7bdat', 'expn17/cla17.sas7bdat', 'expn17/cld17.sas7bdat', 'expn17/cnt17.sas7bdat', 'expn17/cra17.sas7bdat', 'expn17/crb17.sas7bdat', 'expn17/eda17.sas7bdat', 'expn17/eqb17.sas7bdat', 'expn17/fra17.sas7bdat', 'expn17/frb17.sas7bdat', 'expn17/hel17.sas7bdat', 'expn17/hhm17.sas7bdat', 'expn17/hhp17.sas7bdat', 'expn17/him17.sas7bdat', 'expn17/ihb17.sas7bdat', 'expn17/ihc17.sas7bdat', 'expn17/ihd17.sas7bdat', 'expn17/inb17.sas7bdat', 'expn17/lsd17.sas7bdat', 'expn17/mdb17.sas7bdat', 'expn17/mdc17.sas7bdat', 'expn17/mis17.sas7bdat', 'expn17/mor17.sas7bdat', 'expn17/opb17.sas7bdat', 'expn17/opd17.sas7bdat', 'expn17/oph17.sas7bdat', 'expn17/opi17.sas7bdat', 'expn17/ovb17.sas7bdat', 'expn17/ovc17.sas7bdat', 'expn17/rnt17.sas7bdat', 'expn17/rtv17.sas7bdat', 'expn17/sub17.sas7bdat', 'expn17/trd17.sas7bdat', 'expn17/tre17.sas7bdat', 'expn17/trf17.sas7bdat', 'expn17/trv17.sas7bdat', 'expn17/uta17.sas7bdat', 'expn17/utc17.sas7bdat', 'expn17/uti17.sas7bdat', 'expn17/utp17.sas7bdat', 'expn17/veq17.sas7bdat', 'expn17/vlr17.sas7bdat', 'expn17/vot17.sas7bdat', 'expn17/xpa17.sas7bdat', 'expn17/xpb17.sas7bdat']
+**************************************
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+
+---------------------------------
+**************************************
+PEP_2017_PEPAGESEX.zip
+['PEP_2017_PEPAGESEX_with_ann.csv', 'PEP_2017_PEPAGESEX_metadata.csv', 'PEP_2017_PEPAGESEX.txt', 'aff_download_readme_ann.txt']
+**************************************
+###PEP_2017_PEPAGESEX_with_ann.csv###
+        GEO.id GEO.id2 GEO.display-label  \
+0           Id     Id2         Geography   
+1  0400000US01      01           Alabama   
+2  0400000US02      02            Alaska   
+
+                          cen42010sex0_age999  
+0  April 1, 2010 - Census - Both Sexes; Total  
+1                                     4779736  
+2                                      710231  
+---------------------------------
+###PEP_2017_PEPAGESEX_metadata.csv###
+                GEO.id                                          Id
+0              GEO.id2                                         Id2
+1    GEO.display-label                                   Geography
+2  cen42010sex0_age999  April 1, 2010 - Census - Both Sexes; Total
+---------------------------------
+###PEP_2017_PEPAGESEX.txt###
+b'PEPAGESEX'
+b'Annual Estimates of the Resident Population for Selected Age Groups by Sex for the United States, States, Counties, and Puerto Rico Commonwealth and Municipios: April 1, 2010 to July 1, 2017'
+b''
+b'Notes:'
+b'The estimates are based on the 2010 Census and reflect changes to the April 1, 2010'
+
+---------------------------------
+###aff_download_readme_ann.txt###
+
+---------------------------------
+**************************************
+PEP_2017_PEPANNHU (1).zip
+['PEP_2017_PEPANNHU_with_ann.csv', 'PEP_2017_PEPANNHU_metadata.csv', 'PEP_2017_PEPANNHU.txt', 'aff_download_readme_ann.txt']
+**************************************
+###PEP_2017_PEPANNHU_with_ann.csv###
+        GEO.id GEO.id2 GEO.display-label              hucen42010
+0           Id     Id2         Geography  April 1, 2010 - Census
+1    0100000US     NaN     United States               131704730
+2  0400000US01      01           Alabama                 2171853
+---------------------------------
+###PEP_2017_PEPANNHU_metadata.csv###
+              GEO.id                      Id
+0            GEO.id2                     Id2
+1  GEO.display-label               Geography
+2         hucen42010  April 1, 2010 - Census
+---------------------------------
+###PEP_2017_PEPANNHU.txt###
+b'PEPANNHU'
+b'Annual Estimates of Housing Units for the United States, Regions, Divisions, States, and Counties: April 1, 2010 to July 1, 2017'
+b''
+b'Notes:'
+b'The estimates are based on the 2010 Census and reflect changes to the April 1, 2010 housing'
+
+---------------------------------
+###aff_download_readme_ann.txt###
+
+---------------------------------
+**************************************
+PEP_2017_PEPANNHU.zip
+['PEP_2017_PEPANNHU_with_ann.csv', 'PEP_2017_PEPANNHU_metadata.csv', 'PEP_2017_PEPANNHU.txt', 'aff_download_readme_ann.txt']
+**************************************
+###PEP_2017_PEPANNHU_with_ann.csv###
+        GEO.id GEO.id2 GEO.display-label              hucen42010
+0           Id     Id2         Geography  April 1, 2010 - Census
+1    0100000US     NaN     United States               131704730
+2  0400000US01      01           Alabama                 2171853
+---------------------------------
+###PEP_2017_PEPANNHU_metadata.csv###
+              GEO.id                      Id
+0            GEO.id2                     Id2
+1  GEO.display-label               Geography
+2         hucen42010  April 1, 2010 - Census
+---------------------------------
+###PEP_2017_PEPANNHU.txt###
+b'PEPANNHU'
+b'Annual Estimates of Housing Units for the United States, Regions, Divisions, States, and Counties: April 1, 2010 to July 1, 2017'
+b''
+b'Notes:'
+b'The estimates are based on the 2010 Census and reflect changes to the April 1, 2010 housing'
+
+---------------------------------
+###aff_download_readme_ann.txt###
+
+---------------------------------
+**************************************
+PEP_2017_PEPCUMGRHU.US06.zip
+['PEP_2017_PEPCUMGRHU.US06_with_ann.csv', 'PEP_2017_PEPCUMGRHU.US06_metadata.csv', 'PEP_2017_PEPCUMGRHU.US06.txt', 'aff_download_readme_ann.txt']
+**************************************
+###PEP_2017_PEPCUMGRHU.US06_with_ann.csv###
+      GEO.id GEO.id2 GEO.display-label GC_RANK.target-geo-id
+0         Id     Id2         Geography         Target Geo Id
+1  0100000US     NaN     United States        0500000US38053
+2  0100000US     NaN     United States        0500000US38105
+---------------------------------
+###PEP_2017_PEPCUMGRHU.US06_metadata.csv###
