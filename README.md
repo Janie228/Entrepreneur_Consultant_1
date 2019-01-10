@@ -1,3 +1,4 @@
+## This is Rutgers' group project I; Enterprenuer Research from 12/2018 to 1/2019.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Janie228/Project_I/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
