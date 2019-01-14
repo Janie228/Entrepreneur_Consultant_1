@@ -1,2 +1,1 @@
-
-If no work in here, please check Group_Work folder.
+This folder is designated for all group members' work.
