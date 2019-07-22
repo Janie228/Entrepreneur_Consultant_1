@@ -1,38 +1,20 @@
 ```This is Rutgers' group project I; Enterprenuer Research from 12/2018 to 1/2019.
-## Welcome to GitHub Pages
+#Entrepreneur Potential Business & Location Research
 
-You can use the [editor on GitHub](https://github.com/Janie228/Project_I/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##Introduction/Background:
+We would like to assist entrepreneurs identify potential locations for potential businesses by comparing the top five states’ dataset based on individual case requirements. This is a highlevel analysis, national and state level, which may lead them to conduct more granular level
+research, county and city level, before coming to a decision. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Scope
+We will analyze datasets within the past 5-10 years to answer questions below:
+• What is the current U.S. population on national and state level?
+• What is the demographic for all the states?
+  >Gender
+  >Race
+  >Mean Household Income
+  >Education
+• What is the crime rate for all the states?
+• What type of businesses are in each state?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Janie228/Project_I/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##Team Members: 😊
+entr_researchers = (‘jane_wallace’, ‘tanique_adams’, ‘menard_tchatchou’, ‘charleen_carr’,)
