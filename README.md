@@ -19,9 +19,15 @@ We will analyze datasets within the past 5-10 years to answer questions below:
 ## Team Members: 😊
 entr_researchers = (‘jane_wallace’, ‘tanique_adams’, ‘menard_tchatchou’, ‘charleen_carr’,)
 
+-----
+
+## Results
+* Team_Data_Clean.ipynb
+* Team_Data_Analysis.ipynb
+* Doc/Entrepreneurs Research.pptx
 
 
-
+-----
 
 ## Copyright
 (C) 2019. All Rights Reserved.
