@@ -30,4 +30,4 @@ entr_researchers = (‘jane_wallace’, ‘tanique_adams’, ‘menard_tchatchou
 -----
 
 ## Copyright
-(C) 2019. All Rights Reserved.
+Entrepreneur Research Team (C) 2019. All Rights Reserved.
