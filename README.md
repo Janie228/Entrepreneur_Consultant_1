@@ -2,7 +2,7 @@
 -----
 ## Introduction/Background:
 We would like to assist entrepreneurs in identifying potential locations and businesses by comparing the top five states’ dataset 
-based on individual case requirements. This is a highlevel analysis, national and state level, which may lead them to conduct more 
+based on individual case requirements. This is a high level analysis, national and state level, which may lead them to conduct more 
 granular level research, county and city level, before coming to a decision. 
 
 ## Scope
